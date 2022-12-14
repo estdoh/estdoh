@@ -34,3 +34,17 @@ I am passionate about software technologies and I seek to grow professionally ev
  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 </p>
+
+### Languages and Tools:
+
+<p align="left">
+
+<a href="https://www.adobe.com/ar/products/illustrator.html" target="_blank"><img src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="Illustrator" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/ar/products/photoshop.html" target="_blank"><img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="Photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/ar/products/aftereffects.html" target="_blank"><img src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" alt="After Effects" width="40" height="40"/> </a> 
+<a href="https://www.rhino3d.com/es/" target="_blank"><img src="https://seeklogo.com/images/R/rhinoceros-3d-logo-770376F408-seeklogo.com.png" alt="Rhinoeros" width="40" height="40"/> </a> 
+<a href="https://www.maxon.net/es/cinema-4d" target="_blank"><img src="https://seeklogo.com/images/C/cinema-4d-logo-10758584CE-seeklogo.com.jpg" alt="Cinema 4D" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="VScode" width="40" height="40"/> </a> 
+<a href="https://sparkar.facebook.com/ar-studio/" target="_blank"><img src="https://seeklogo.com/images/S/sparkar-by-facebook-logo-98124787E6-seeklogo.com.png" alt="SparkAR" width="40" height="40"/> </a> 
+
+</p>
