@@ -39,7 +39,7 @@ I am passionate about software technologies and I seek to grow professionally ev
 
 </p>
 
-### Languages and Tools Design:
+### Design Tools: 
 
 <p align="left">
 
